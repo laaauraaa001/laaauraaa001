@@ -1,16 +1,15 @@
-## Hi there 👋
+### olá! bem vindo ao meu perfil   💜
 
-<!--
-**laaauraaa001/laaauraaa001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Laura
 
-Here are some ideas to get you started:
+-Estou estudando [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou desenvolvendo na linguagem JavaScript
+
+-Utilizo este espaço para minha organizção e compartilhamento dos meus projetos desenvolvidos 
+
+- ### você pode entrar em contato comigo 📫
+
+- 00001073850092sp@al.educacao.sp.gov.br
+  
+    ![]( https://media1.tenor.com/m/CzaHhPyIR8gAAAAC/rosy00.gif)
